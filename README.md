@@ -61,6 +61,7 @@ Use the [included lab](./lab.md) for this week to apply the concepts you've lear
 
 **Coursera Courses**
 
+
 - [MLOps Machine Learning Operations Specialization](https://www.coursera.org/specializations/mlops-machine-learning-duke)
 - [Linux and Bash for Data Engineering](https://www.coursera.org/learn/linux-and-bash-for-data-engineering-duke)
 - [Open Source Platforms for MLOps](https://www.coursera.org/learn/open-source-platforms-duke)
